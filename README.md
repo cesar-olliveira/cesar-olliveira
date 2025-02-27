@@ -4,8 +4,7 @@
 
 ![Cesar Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-olliveira&show_icons=true&theme=dracula)
 
-### Tecnologias que ultilizo no meu dia
-
+### Tecnologias que ultilizo no meu dia:
 <div style="display: inline_block"><br/>
   <img aling="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,6 +18,13 @@
   <img aling="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
   <img aling="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
   <img aling="center" alt="javascript" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  	
+<br/><br/>
+"Inovação, desafios e aprendizado contínuo: sempre explorando o mundo da tecnologia! 🚀"
+<br/><br/>
+Contato:
+<br/><br/>
+  
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarolliveira25@gmail.com)
+   
 </div>
 
