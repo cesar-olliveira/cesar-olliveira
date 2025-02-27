@@ -5,7 +5,7 @@ Conheça um pouco da minha trajetoria até aqui: <br/><br/>
 
 ![Cesar Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-olliveira&show_icons=true&theme=dracula)
 
-### Tecnologias que ultilizo no meu dia:
+### Linguagens e Tecnologias que ultilizo no meu dia:
 <div style="display: inline_block"><br/>
   <img aling="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
