@@ -1,5 +1,6 @@
 ### Olá sou o César Oliveira 👋
 
+Conheça um pouco da minha trajetoria até aqui: <br/><br/>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarboliveira/)
 
 ![Cesar Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-olliveira&show_icons=true&theme=dracula)
